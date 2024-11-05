@@ -1,6 +1,6 @@
 ## Computer Generated Imagery (CGI) Coursework
 
-This is the repository for my CGI coursework where in...
+This is the repository for my first-class CGI coursework where in...
 - cgi report.pdf you can find a report outlining my modelling and animating process
 - /images you can find a gallery of screenshots of my model, and below the animated video.
 - Note: the Maya files are unavailable on this repository as the files are too large.
